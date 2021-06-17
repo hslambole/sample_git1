@@ -5,3 +5,4 @@ Change 4
 Change 5
 New conflict line
 another conflict line
+updated readme file
